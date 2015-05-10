@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title> SaySo - Coming Soon! </title>
+		<link rel="stylesheet" type="text/css" href="style.css"> </link>
+	</head>
+	<body>
+		<div id="container">
+			 <a href="http://www.google.com/">Quick!</a> 
+		</div>		
+	</body>
+</html>
